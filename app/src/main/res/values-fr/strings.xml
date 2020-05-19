@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="moj_tekst">Salut!</string>
+    <string name="ta">Je</string>
+    <string name="aplikacja">mange</string>
+    <string name="jest">un</string>
+    <string name="naprawde">orange</string>
+    <string name="swietna">Ciao</string>
+</resources>

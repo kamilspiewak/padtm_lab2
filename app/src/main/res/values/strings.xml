@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="moj_tekst">Hello world!</string>
+    <string name="ta">This</string>
+    <string name="aplikacja">application</string>
+    <string name="jest">is</string>
+    <string name="naprawde">really</string>
+    <string name="swietna">great!</string>
+</resources>
